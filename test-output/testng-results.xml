@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-15T09:42:44 IST" name="Default suite" finished-at="2021-05-15T09:43:40 IST" duration-ms="56234">
+    <groups>
+    </groups>
+    <test started-at="2021-05-15T09:42:44 IST" name="Default test" finished-at="2021-05-15T09:43:40 IST" duration-ms="56234">
+      <class name="com.findpage.locate">
+        <test-method is-config="true" signature="f()[pri:0, instance:com.findpage.locate@c03cf28]" started-at="2021-05-15T09:42:44 IST" name="f" finished-at="2021-05-15T09:43:03 IST" duration-ms="19190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.findpage.locate -->
+      <class name="ddt.datadriven">
+        <test-method signature="tests()[pri:0, instance:ddt.datadriven@1329eff]" started-at="2021-05-15T09:43:03 IST" name="tests" finished-at="2021-05-15T09:43:40 IST" duration-ms="36944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tests -->
+      </class> <!-- ddt.datadriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
